@@ -17,21 +17,26 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Working Papers
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+  <li>
+    <strong>Observability and Limits of Competition</strong>
+    <a href="https://drive.google.com/file/d/1P55RGsQgu0BqSwlitwY2yXFIda2fjhJB/view?usp=sharing"
+       target="_blank" rel="noopener noreferrer">[PDF]</a>
+    <br>
+    October 2026
+  </li>
+
+  <li>
+    <strong>Selling Information to Voters</strong>
+    <a href="https://drive.google.com/file/d/1WlMHzeFPuetWS3vWNgiVTqTJhRUrwzAM/view?usp=sharing"
+       target="_blank" rel="noopener noreferrer">[PDF]</a>
+    <br>
+    April 2026
+  </li>
+</li>
   
 Skills
 ======
