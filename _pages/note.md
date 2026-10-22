@@ -16,7 +16,9 @@ I plan to upload my notes on basic math courses and some novel topics about micr
     style="width: 400px; max-width: 100%; height: auto; display: block; margin: 0 auto;"
   >
   <figcaption style="text-align: center; margin-top: 8px; font-size: 14px; color: #666;">
-    AI (Deepseek) tosses a child’s books aside and says, “What’s the point of learning all this?” If you were the child in the picture, how would you respond?
+    AI (Deepseek) tosses a child’s books aside and says, “What’s the point of learning all this?”
+    
+    If you were the child in the picture, how would you respond?
   </figcaption>
 </figure>
 
