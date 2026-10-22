@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Notes"
+permalink: /notes/
+author_profile: true
 redirect_from: 
-  - /notes/
   - /notes.html
-sidebar:
-  nav: "main"
 ---
 
 I plan to upload my notes on basic math courses and some novel topics about microeconomics. I list some topics that may take years to complete all links.
