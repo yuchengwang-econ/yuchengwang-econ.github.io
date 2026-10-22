@@ -36,7 +36,7 @@ Working Papers
     <br>
     April 2026
   </li>
-</li>
+</ul>
   
 Skills
 ======
