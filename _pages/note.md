@@ -14,9 +14,11 @@ I plan to upload my notes on basic math courses and some novel topics about micr
 
 Notes on Topology (based on *Topology* by Munkres)
 
-Notes on Duality Theory
+Notes on Abstract Spaces (based on *Real Analysis* by Royden and Fitzpatrick, and *Infinite Dimensional Analysis* by Aliprantis and Border
 
 Notes on Convex Analysis (based on *Convex Analysis* by Rockafellar)
+
+Notes on Optimal Transport
 
 ## Economics Notes
 
